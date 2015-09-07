@@ -21,7 +21,7 @@ features of the system:
 <li>utilizes embedded microSD slot on Ethernet Shield to store attendance information which can be easily accessed by user.</li>
 <li>includes LCD Keypad shield that displays time and attendance information.It also contains 5 buttons (not including reset button) in which the user can use them as navigation buttons.</li>
 <li>includes RTC module to store real date and clock time information.</li>
-<li>includes other device such as buzzer as indicator.</li></li>
+<li>includes other device such as buzzer as indicator.</li></ul></li>
 </ul>
 <strong>Hardware:</strong><br/>
 <ul>
