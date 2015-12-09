@@ -4,6 +4,8 @@ Arduino sample sketch for Fingerprint Reader Integrated SM630 (SN-FPR-SM630) and
 
 <strong>Tutorial:</strong><br/>
 <ul>
+<li><a href="http://tutorial.cytron.com.my/2015/11/24/getting-started-with-fingerprint-sensor-integrated-sm630/" target="_blank"> Getting started with fingerprint sensor integrated SM630</a> <br/>
+In this tutorial, explain how to interface this sensor with MCU, i.e. CT-Uno.
 <li><a href="http://tutorial.cytron.com.my/2013/01/29/interfacing-fingerprint-reader-integrated-sm630-with-arduino-uno/" target="_blank">Interfacing Fingerprint Reader Integrated SM630 with Arduino Uno	</a><br/>
 The sample code demonstrate 5 operations of fingerprint reader:
 <ol>
